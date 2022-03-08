@@ -327,8 +327,8 @@ async function sendM(usermail) {
         port: 587,
         secure: false, 
         auth: {
-          user: 'plasmafocuss@gmail.com',
-          pass: 'plasmafocus31101981',
+          user: '',
+          pass: '',
         }
     });
   
